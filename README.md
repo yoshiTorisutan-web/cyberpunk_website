@@ -1,4 +1,4 @@
-# NEXUS // Digital Solutions
+# NEXUS - Digital Solutions
 
 ![Version](https://img.shields.io/badge/version-1.0.0-cyan)
 ![License](https://img.shields.io/badge/license-MIT-pink)
@@ -187,35 +187,3 @@ const speed = (index + 1) * 20; // Changez la valeur 20
 ## 📄 License
 
 MIT License - Vous êtes libre d'utiliser ce projet pour vos besoins personnels ou commerciaux.
-
-## 👤 Auteur
-
-**NEXUS Team**
-- Website : [nexus-digital.com](#)
-- Twitter : [@nexusdigital](#)
-- GitHub : [@nexusdigital](#)
-
-## 🙏 Remerciements
-
-- **Google Fonts** pour les polices Orbitron et Rajdhani
-- **CSS Tricks** pour les inspirations d'effets
-- La communauté **Codepen** pour les techniques d'animation
-
-## 🐛 Bugs Connus
-
-Aucun bug majeur connu. Pour signaler un problème :
-1. Vérifiez qu'il n'existe pas déjà dans les issues
-2. Créez une nouvelle issue avec une description détaillée
-3. Incluez des captures d'écran si possible
-
-## 📮 Contact
-
-Pour toute question ou suggestion :
-- **Email** : contact@nexus-digital.com
-- **Issues** : [GitHub Issues](#)
-
----
-
-**Fait avec ❤️ et ⚡ par NEXUS**
-
-*Transformons vos visions en réalité digitale*
